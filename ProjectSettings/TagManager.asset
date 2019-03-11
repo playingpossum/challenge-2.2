@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Pickups
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 2162094833
+    locked: 0
+  - name: Ground
+    uniqueID: 2580897093
+    locked: 0
+  - name: Platforms
+    uniqueID: 4139266715
+    locked: 0
+  - name: Player
+    uniqueID: 1023217219
+    locked: 0
+  - name: Pick Ups
+    uniqueID: 1046427051
+    locked: 0
+  - name: Enemy
+    uniqueID: 3997412143
+    locked: 0
